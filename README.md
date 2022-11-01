@@ -3,7 +3,7 @@
 ##############
 
 # Version 2.8
-# 2022-01-02
+# 2022-01-11
 # Rosie Everett, Becky Cribdon
 
 The MetaDamage analysis estimates base substitutions of double-stranded libraries, focusing on C->T and G->A, by comparing them to reference sequences from GenBank. The MetaDamage also has the feature to assess single-stranded libraries. Each query sequence is aligned to its own reference.
